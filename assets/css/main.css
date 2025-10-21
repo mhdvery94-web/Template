@@ -1427,15 +1427,15 @@ section,
   padding: 25px 25px 25px 25px;
   position: relative;
   overflow: hidden;
-  height: 450px; /* tinggi seragam untuk semua gambar */
+  height: 500px; /* tinggi seragam untuk semua gambar */
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
 .team-member .member-img img {
-  width: 100%;
-  height: 120%;
+  width: 120%;
+  height: 110%;
   object-fit: cover;
   object-position: center;
   display: block;
